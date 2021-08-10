@@ -1,5 +1,5 @@
 # Projeto02_Instagram
-A copy of [**Instagram's**](https://www.globo.com/) responsive layout.
+A copy of [**Instagram's**](https://www.instagram.com/) responsive layout.
 
 This is the second project made by me to 
 "[bootcamp de desenvolvimento web full stack - Responde aí/Driven](https://page.respondeai.com.br/bootcamp)" 
